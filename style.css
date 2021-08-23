@@ -6,6 +6,11 @@
   font-family: 'Roboto Mono', monospace;
   }
 
+.landing {
+  padding-top: 30px;
+}
+
+
 .landing-paragraph {
 
     font-size: 17px;
