@@ -5,10 +5,14 @@
 
 
 
+
+
 :root {
     background-image: url(assets/pattern.png);
     height: 20px;
     color: rgb(180, 180, 180);
+    text-size-adjust: none;
+   -webkit-text-size-adjust: none;
 }
 
 .header pre{
@@ -16,7 +20,7 @@
     margin-bottom: -15px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 11px;
+    font-size: 9px;
     text-align: left;
     color: rgb(158, 47, 47);
     text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.678);
@@ -26,7 +30,7 @@
 
 
 .title{
-    font-size: 50,px;
+    font-size: 38px;
     padding-top: 50px;
     padding-left: 20px;
     font-weight: 900;
@@ -36,7 +40,7 @@
 }
 
 .info-text {
-    font-size: 15px;
+    font-size: 20px;
     padding-left: 40px;
     font-family: cozette;
     text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.726);
@@ -45,7 +49,7 @@
 
 .info-list {
     padding-left: 80px;
-    font-size: 25px;
+    font-size: 20px;
     font-family: cozette;
     text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.521);
 }
@@ -56,21 +60,27 @@
 }
 
 .discord a {
-    color: rgb(115, 64, 197);
+    color: rgb(101, 58, 172);
     font-weight: 900;
 }
 
 .youtube a {
-    color: rgb(173, 36, 36);
+    color: rgb(160, 45, 45);
     font-weight: 900;
 }
 
 .twitter a {
-    color: rgb(54, 153, 192);
+    color: rgb(55, 119, 145);
     font-weight: 900;
 }
 
 .guilded a {
-    color: rgb(183, 192, 54);
+    color: rgb(209, 175, 61);
     font-weight: 900;
 }
+
+@media screen and (max-width: 480px) {
+    .header pre {
+        font-size: 5px;
+    }
+  }
