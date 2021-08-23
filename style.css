@@ -3,15 +3,16 @@
 :root {
   background-color: #191919;
   color: white;
-    font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
   }
 
 .landing {
-  
+
 }
 
 .landing-paragraph {
     font-size: 17px;
+    text-align: center;
 }
 
 .landing-logo {
