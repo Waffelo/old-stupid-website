@@ -5,3 +5,7 @@
   color: white;
     font-family: 'Roboto Mono', monospace;
   }
+
+  .l-paragraph {
+    font-size: 50px;
+  }
