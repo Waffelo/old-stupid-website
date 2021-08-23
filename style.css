@@ -8,6 +8,7 @@
 
 
 :root {
+    background-color: rgb(26, 26, 26);
     background-image: url(assets/pattern.png);
     height: 20px;
     color: rgb(180, 180, 180);
