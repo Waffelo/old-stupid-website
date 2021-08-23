@@ -6,10 +6,6 @@
   font-family: 'Roboto Mono', monospace;
   }
 
-.body {
-  display: flex;
-}
-
 .landing-paragraph {
 
     font-size: 17px;
@@ -17,8 +13,5 @@
 }
 
 .landing-logo {
-
-    height: 150px;
-    width: 150px;
     text-align: center;
 }
