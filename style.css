@@ -6,7 +6,7 @@
     font-family: 'Roboto Mono', monospace;
   }
 
-  .l-paragraph {
+  .l-paragraph p{
     font-size: 17px;
     align-content: center;
   }
