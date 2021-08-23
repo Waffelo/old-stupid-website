@@ -1,37 +1,76 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+@font-face {
+    font-family: 'cozette';
+    src: url(assets/CozetteVector.ttf);
+}
+
+
+
 :root {
-  background-color: #191919;
-  color: white;
-
-  }
-
-.landing {
-  align-content: center;
+    background-image: url(assets/pattern.png);
+    height: 20px;
+    color: rgb(180, 180, 180);
 }
 
-.landing-about {
-  text-align: center;
-  font-size: 23px;
-  font-weight: 900;
-  font-variant: black;
-  font-family: 'Lato', sans-serif;
-
-}
-
-.landing-paragraph {
-
-    font-size: 17px;
-    text-align: center;
-    font-family: 'Roboto Mono', monospace;
-}
-
-.landing-logo {
-    text-align: center;
+.header pre{
+    margin-top: 30px;
+    margin-bottom: -15px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 11px;
+    text-align: left;
+    color: rgb(158, 47, 47);
+    text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.678);
 
 }
 
-.landing-logo img {
-   height: 150px;
-    width: 150px;
+
+
+.title{
+    font-size: 80px;
+    padding-top: 50px;
+    padding-left: 20px;
+    font-weight: 900;
+    font-family: cozette;
+    color: rgb(211, 211, 211);
+    text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.637);
+}
+
+.info-text {
+    font-size: 25px;
+    padding-left: 40px;
+    font-family: cozette;
+    text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.726);
+    
+}
+
+.info-list {
+    padding-left: 80px;
+    font-size: 25px;
+    font-family: cozette;
+    text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.521);
+}
+
+.info-list a {
+    text-decoration: none;
+    color: white;
+}
+
+.discord a {
+    color: rgb(115, 64, 197);
+    font-weight: 900;
+}
+
+.youtube a {
+    color: rgb(173, 36, 36);
+    font-weight: 900;
+}
+
+.twitter a {
+    color: rgb(54, 153, 192);
+    font-weight: 900;
+}
+
+.guilded a {
+    color: rgb(183, 192, 54);
+    font-weight: 900;
 }
