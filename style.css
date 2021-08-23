@@ -104,11 +104,3 @@
     color: rgb(209, 175, 61);
     font-weight: 900;
 }
-
-@media screen and (max-width: 1080px) {
-    .header pre {
-        visibility: hidden;
-        margin-top: 0px;
-        margin-bottom: 0px;
-    }
-  }
