@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 3000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <rect id="Artboard1" x="0" y="0" width="3000" height="3000" style="fill:none;"/>
+    <rect id="Artboard1" x="0" y="0" width="3000" height="3000" style="fill:white;"/>
     <g id="Artboard11" serif:id="Artboard1">
         <g id="WF" transform="matrix(1.09312,0,0,1.09312,-131.462,-146.992)">
             <path d="M1869.19,701.317L1530.98,2309.62L1904.18,2382.6L2064.63,1616.12L2565.71,1721.45L2636.15,1386.05L2135.24,1280.58L2172.74,1102.31L2673.49,1207.62L2741,884.592L1869.19,701.317Z"/>
