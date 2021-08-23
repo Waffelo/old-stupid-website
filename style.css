@@ -11,12 +11,14 @@
 }
 
 .landing-paragraph {
+
     font-size: 17px;
     text-align: center;
 }
 
 .landing-logo {
-    text-align: center;
+
     height: 150px;
     width: 150px;
+    text-align: center;
 }
