@@ -11,7 +11,7 @@
     text-align: center;
   }
   .l-logo {
-    text-align: center;
+    align-content: center;
     height: 150px;
     width: 150px;
   }
