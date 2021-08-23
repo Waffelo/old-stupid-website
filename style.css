@@ -6,11 +6,17 @@
     font-family: 'Roboto Mono', monospace;
   }
 
-  .l-paragraph p{
+.l-landing {
+  display: flex;
+  align-content: center;
+}
+
+.l-paragraph {
     font-size: 17px;
-    align-content: center;
-  }
-  .l-logo {
+
+}
+
+.l-logo {
     height: 150px;
     width: 150px;
-  }
+}
