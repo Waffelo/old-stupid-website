@@ -42,7 +42,6 @@
 .sub-title{
     font-size: 32px;
     margin-top: -10px;
-    margin-bottom: 80px;
     padding-left: 35px;
     font-weight: 900;
     font-family: cozette;
@@ -71,6 +70,7 @@
 
 .info-list {
     padding-left: 80px;
+    margin-bottom: 30px;
     margin-top: -8px;
     font-size: 20px;
     font-family: cozette;
