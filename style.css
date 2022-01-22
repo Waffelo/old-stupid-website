@@ -88,22 +88,22 @@
 
 
 .discord a {
-    color: rgb(94, 111, 190);
+    color: rgb(128,102,255);
     font-weight: 900;
 }
 
 .youtube a {
-    color: rgb(160, 45, 45);
+    color: rgb(255,102,102);
     font-weight: 900;
 }
 
 .gittea a {
-    color: rgb(0,204,136);
+    color: rgb(0,255,170);
     font-weight: 900;
 }
 
 .mastodon a {
-    color: rgb(102, 164, 189);
+    color: rgb(102,179,255);
     font-weight: 900;
 }
 
