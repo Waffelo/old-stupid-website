@@ -107,7 +107,17 @@
     font-weight: 900;
 }
 
-.guilded a {
-    color: rgb(209, 175, 61);
+.XMPP a {
+    color: rgb(221,153,255);
+    font-weight: 900;
+}
+
+.Matrix a {
+    color: rgb(25,255,140);
+    font-weight: 900;
+}
+
+.Email a {
+    color: rgb(255,102,102);
     font-weight: 900;
 }
