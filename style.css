@@ -97,6 +97,11 @@
     font-weight: 900;
 }
 
+.gittea a {
+    color: rgb(0,204,136);
+    font-weight: 900;
+}
+
 .mastodon a {
     color: rgb(102, 164, 189);
     font-weight: 900;
