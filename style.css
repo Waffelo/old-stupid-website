@@ -30,7 +30,7 @@
 
 
 .title{
-    font-size: 38px;
+    font-size: 35px;
     margin-top: 29px;
     padding-left: 13px;
     font-weight: 900;
@@ -40,7 +40,7 @@
 }
 
 .sub-title{
-    font-size: 32px;
+    font-size: 29px;
     margin-top: -10px;
     padding-left: 35px;
     font-weight: 900;
@@ -50,7 +50,7 @@
 }
 
 .info-text {
-    font-size: 20px;
+    font-size: 17px;
     padding-left: 40px;
     margin-top: -9px;
     margin-bottom: 50px;
@@ -60,7 +60,7 @@
 }
 
 .info-text-social {
-    font-size: 20px;
+    font-size: 17px;
     padding-left: 40px;
     padding-bottom: 3px;
     font-family: cozette;
@@ -72,7 +72,7 @@
     padding-left: 80px;
     margin-bottom: 30px;
     margin-top: -14px;
-    font-size: 20px;
+    font-size: 17px;
     font-family: cozette;
     text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.521);
 }
