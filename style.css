@@ -32,6 +32,8 @@
     padding-top: 10px;
     padding-left: 32px;
     text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.637);
+    padding-right: 10px;
+
 }
 
 .navig a {
@@ -40,8 +42,7 @@
     font-weight: 900;
     text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.637);
     text-decoration: none;
-    padding-right: 20px;
-}
+   }
 
 .title{
     font-size: 35px;
