@@ -29,12 +29,13 @@
 }
 
 .navig {
-    padding-top: 5px;
-    padding-left: 25px;
+    padding-top: 10px;
+    padding-left: 32px;
 
 }
 
 .navig a {
+    font-family: cozette;
     color: white;
 }
 
