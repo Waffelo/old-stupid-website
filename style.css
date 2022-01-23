@@ -31,12 +31,14 @@
 .navig {
     padding-top: 10px;
     padding-left: 32px;
-
+    text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.637);
 }
 
 .navig a {
     font-family: cozette;
-    color: white;
+    color: rgb(211, 211, 211);
+    font-weight: 900;
+    text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.637);
 }
 
 .title{
